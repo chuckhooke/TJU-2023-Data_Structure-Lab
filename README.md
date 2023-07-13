@@ -23,6 +23,7 @@
 |   └──lab number         -- Total 7 labs
 │   	├── labname.cpp
 │  	├── labname.h
+│  	├── main.cpp
 │   	└── README.md
 |
 ├── Report                -- Report PDF (Total 7)
