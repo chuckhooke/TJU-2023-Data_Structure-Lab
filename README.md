@@ -20,7 +20,7 @@
 
 ```
 ├── Code                  -- Coding
-|   ├──lab number         -- Total 7 labs
+|   └──lab number         -- Total 7 labs
 │   	├── labname.cpp
 │  	├── labname.h
 │   	└── README.md
