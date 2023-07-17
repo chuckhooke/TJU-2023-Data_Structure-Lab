@@ -8,13 +8,13 @@
 
 | Number | LAB              | Grade |
 | :----- | ---------------- | ---- |
-| 1      | linear list          | 100  |
-| 2      | 栈和队列         | 100  |
-| 3      | 字符串和稀疏矩阵 | 100  |
-| 4      | 树               | 100  |
-| 5      | 图               | 100  |
-| 6      | 查找             | 100  |
-| 7      | 排序             | 100  |
+| 1      | Linear List          | 100  |
+| 2      | Stack and Queue         | 100  |
+| 3      | String and Sparse matrix | 100  |
+| 4      | Tree               | 100  |
+| 5      | Map               | 100  |
+| 6      | Search             | 100  |
+| 7      | Sort             | 100  |
 
 * Project Structure
 
