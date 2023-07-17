@@ -23,15 +23,14 @@
 |   └──lab number         -- Total 7 labs
 │   	├── labname.cpp
 │  	├── labname.h
-│  	├── main.cpp
-│   	└── README.md
+│  	└── main.cpp
 |
 ├── Report                -- Report PDF (Total 7)
 │   
-├── TextBook              -- Project Requirements (Total 7)
+├── Lab guide              -- Project Requirements (Total 7)
 |
 └── README.md
 
-10 directories, 35 files
+10 directories, 36 files
 ```
 
